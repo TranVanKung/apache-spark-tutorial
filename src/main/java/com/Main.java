@@ -11,21 +11,35 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<Double> inputData = new ArrayList<>();
-        inputData.add(35.5);
-        inputData.add(12.55);
-        inputData.add(22.55);
-        inputData.add(32.55);
+        List<Integer> inputData = new ArrayList<>();
+        inputData.add(35);
+        inputData.add(12);
+        inputData.add(22);
+        inputData.add(32);
 
         Logger.getLogger("org.apache").setLevel(Level.WARN);
 
         SparkConf conf = new SparkConf().setAppName("StaringSpark").setMaster("local[*]");
         JavaSparkContext sc = new JavaSparkContext(conf);
 
-        JavaRDD<Double> myRdd = sc.parallelize(inputData);
+        JavaRDD<Integer> myRdd = sc.parallelize(inputData);
 
-        Double result = myRdd.reduce((value1, value2) -> value1 + value2);
+        Integer result = myRdd.reduce((value1, value2) -> value1 + value2);
+
+        JavaRDD<Double> sqrtRdd = myRdd.map(value -> Math.sqrt(value));
+        sqrtRdd.collect().forEach(System.out::println);
+
         System.out.println(result);
+
+        // how many elements in sqrtRdd
+        System.out.println(sqrtRdd.count());
+
+        // using map and reduce for counting
+        JavaRDD<Integer> singleIntegerRdd = sqrtRdd.map(value -> 1);
+        Integer count = singleIntegerRdd.reduce((value1, value2) -> value1 + value2);
+
+        System.out.println("count: " + count);
+
         sc.close();
     }
 }
