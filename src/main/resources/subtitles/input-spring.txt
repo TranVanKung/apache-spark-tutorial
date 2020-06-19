@@ -13098,7 +13098,7 @@ are just there so the client has something
 
 126
 00:05:44,537 --> 00:05:47,239
-simple to call, but we wouldn’t
+simple to call, but we wouldnï¿½t
 
 127
 00:05:47,239 --> 00:05:50,278
@@ -13706,7 +13706,7 @@ In your workspace, you might there are
 268
 00:12:26,011 --> 00:12:28,238
 more projects than this
-because I’ll probably be
+because Iï¿½ll probably be
 
 269
 00:12:28,238 --> 00:12:31,814
@@ -14261,7 +14261,7 @@ to the production standard implementation.
 
 399
 00:18:19,861 --> 00:18:22,153
-Let's go into Eclipse and I’ll show you
+Let's go into Eclipse and Iï¿½ll show you
 
 400
 00:18:22,153 --> 00:18:25,857
@@ -14507,7 +14507,7 @@ return test books dot get
 
 456
 00:21:01,623 --> 00:21:05,850
-and I’ll pass in the ISBN
+and Iï¿½ll pass in the ISBN
 number I've been supplied.
 
 457
@@ -14552,12 +14552,12 @@ array list on the fly
 
 466
 00:21:37,371 --> 00:21:40,793
-and I’ll tell Java that they
+and Iï¿½ll tell Java that they
 are going to contain books.
 
 467
 00:21:40,793 --> 00:21:43,029
-I don’t know if you know
+I donï¿½t know if you know
 this about collections
 
 468
@@ -14655,7 +14655,7 @@ and get all recommended books,
 
 490
 00:22:37,185 --> 00:22:39,552
-but I’ll do those at a later date.
+but Iï¿½ll do those at a later date.
 
 491
 00:22:39,552 --> 00:22:41,635
@@ -14886,7 +14886,7 @@ and here is a little trick in Eclipse.
 
 545
 00:25:07,822 --> 00:25:08,715
-I don’t know if you know it
+I donï¿½t know if you know it
 
 546
 00:25:08,715 --> 00:25:12,421
@@ -15085,7 +15085,7 @@ all of the client code.
 
 593
 00:27:09,446 --> 00:27:11,969
-I’ll call that service
+Iï¿½ll call that service
 
 594
 00:27:11,969 --> 00:27:14,006
@@ -15220,7 +15220,7 @@ It looks like we are good to go.
 
 625
 00:28:37,997 --> 00:28:39,747
-I’ll give this a run.
+Iï¿½ll give this a run.
 
 626
 00:28:41,986 --> 00:28:46,502
@@ -15316,7 +15316,7 @@ to my package explorer,
 
 647
 00:29:46,365 --> 00:29:48,603
-and I’ll just make sure the exception
+and Iï¿½ll just make sure the exception
 
 648
 00:29:48,603 --> 00:29:49,946
@@ -15444,7 +15444,7 @@ It is just a warning.
 
 677
 00:31:06,333 --> 00:31:07,684
-So I’ll emphasize just once more
+So Iï¿½ll emphasize just once more
 
 678
 00:31:07,684 --> 00:31:10,490
@@ -15463,7 +15463,7 @@ certainly be doing that later.
 
 681
 00:31:17,723 --> 00:31:20,428
-And we wouldn’t have to change
+And we wouldnï¿½t have to change
 
 682
 00:31:20,428 --> 00:31:22,396
@@ -32094,7 +32094,7 @@ cleaner JDBC implementation.
 
 36
 00:01:51,453 --> 00:01:53,265
-You probably wouldn’t use a class name
+You probably wouldnï¿½t use a class name
 
 37
 00:01:53,265 --> 00:01:54,832
@@ -32347,7 +32347,7 @@ is celled the JDBC template.
 
 97
 00:04:31,773 --> 00:04:35,231
-So I’ll do a Control F in my browser,
+So Iï¿½ll do a Control F in my browser,
 
 98
 00:04:35,231 --> 00:04:38,120
@@ -32562,7 +32562,7 @@ here to the DataSource,
 
 147
 00:07:08,710 --> 00:07:10,959
-I don’t know if you've
+I donï¿½t know if you've
 come across this DataSource
 
 148
@@ -32696,7 +32696,7 @@ DataSource in our application,
 
 177
 00:08:52,926 --> 00:08:56,591
-we might go off to I don’t
+we might go off to I donï¿½t
 know, a company like Oracle
 
 178
@@ -32831,7 +32831,7 @@ on what we could use instead
 
 208
 00:10:35,261 --> 00:10:39,464
-and I’ll come back on to
+and Iï¿½ll come back on to
 that later in this course.
 
 209
@@ -32891,7 +32891,7 @@ very soon on the course.
 
 222
 00:11:08,632 --> 00:11:11,273
-I don’t know if you know
+I donï¿½t know if you know
 what connection pools are.
 
 223
@@ -33527,7 +33527,7 @@ standard Eclipse editor,
 
 371
 00:18:21,016 --> 00:18:23,252
-I don’t know what state
+I donï¿½t know what state
 your database will be in
 
 372
@@ -33614,7 +33614,7 @@ and that's good if I have a look in my
 
 390
 00:19:23,176 --> 00:19:25,885
-JDBC DAO I don’t know if you remember
+JDBC DAO I donï¿½t know if you remember
 
 391
 00:19:25,885 --> 00:19:27,121
@@ -35474,7 +35474,7 @@ but a regular method called create tables.
 
 827
 00:40:23,856 --> 00:40:26,080
-I’ll just paste that code in.
+Iï¿½ll just paste that code in.
 
 828
 00:40:26,080 --> 00:40:29,084
@@ -35512,7 +35512,7 @@ where I'm going with this now.
 
 836
 00:40:48,056 --> 00:40:50,364
-I’ll go to the XML file.
+Iï¿½ll go to the XML file.
 
 837
 00:40:50,364 --> 00:40:53,320
@@ -35607,7 +35607,7 @@ Let's check that that runs.
 
 858
 00:41:55,706 --> 00:41:59,706
-I think again I’ll refresh
+I think again Iï¿½ll refresh
 
 859
 00:42:00,629 --> 00:42:02,629
@@ -35669,7 +35669,7 @@ There are several implementations
 
 873
 00:42:44,242 --> 00:42:46,874
-and I’ll leave you to choose your own.
+and Iï¿½ll leave you to choose your own.
 
 874
 00:42:46,874 --> 00:42:50,331
@@ -44176,7 +44176,7 @@ the get entire catalog method.
 
 67
 00:03:53,056 --> 00:03:56,261
-Now what I’m doing is storing a local
+Now what Iï¿½m doing is storing a local
 
 68
 00:03:56,261 --> 00:03:58,864
@@ -44257,7 +44257,7 @@ Doesn't really matter for this system
 
 86
 00:04:48,162 --> 00:04:49,729
-but it's worth mentioning can’t
+but it's worth mentioning canï¿½t
 
 87
 00:04:49,729 --> 00:04:52,907
@@ -44325,7 +44325,7 @@ to use the standard outs.
 
 103
 00:05:32,961 --> 00:05:36,643
-I suppose it’s simple and straightforward
+I suppose itï¿½s simple and straightforward
 
 104
 00:05:36,643 --> 00:05:39,128
@@ -44358,7 +44358,7 @@ differences in the reports
 
 111
 00:05:54,041 --> 00:05:57,032
-I’ve change the name of the method.
+Iï¿½ve change the name of the method.
 
 112
 00:05:57,032 --> 00:05:59,282
@@ -44378,7 +44378,7 @@ We got two methods here
 
 116
 00:06:06,171 --> 00:06:08,364
-which I haven’t bothered timing.
+which I havenï¿½t bothered timing.
 
 117
 00:06:08,364 --> 00:06:10,018
@@ -44592,7 +44592,7 @@ So I guess I've met my requirements,
 
 167
 00:08:23,388 --> 00:08:26,308
-and I’ve made my project manager happy.
+and Iï¿½ve made my project manager happy.
 
 168
 00:08:26,308 --> 00:08:28,647
@@ -44731,7 +44731,7 @@ the copying and pasting of the timing.
 
 199
 00:10:08,053 --> 00:10:09,444
-And there’s a fourth problem.
+And thereï¿½s a fourth problem.
 
 200
 00:10:09,444 --> 00:10:11,187
@@ -44799,7 +44799,7 @@ we ever add to these projects.
 
 215
 00:11:01,702 --> 00:11:03,259
-So I’m getting quite depressed now
+So Iï¿½m getting quite depressed now
 
 216
 00:11:03,259 --> 00:11:07,990
@@ -44913,7 +44913,7 @@ just using the normal OO tools,
 
 241
 00:12:33,946 --> 00:12:38,124
-you’re going to end up
+youï¿½re going to end up
 in a pretty sticky mess.
 
 242
@@ -44992,7 +44992,7 @@ design patterns before.
 
 260
 00:13:27,755 --> 00:13:29,613
-You’ll certainly find a lot of information
+Youï¿½ll certainly find a lot of information
 
 261
 00:13:29,613 --> 00:13:31,571
@@ -45021,7 +45021,7 @@ and an implementation.
 
 267
 00:13:50,412 --> 00:13:53,101
-I’m now going to add the requirement that
+Iï¿½m now going to add the requirement that
 
 268
 00:13:53,101 --> 00:13:55,768
@@ -45103,7 +45103,7 @@ appearing in the class.
 
 286
 00:14:59,909 --> 00:15:02,191
-We’re going to have, for example,
+Weï¿½re going to have, for example,
 
 287
 00:15:02,191 --> 00:15:05,293
@@ -45201,12 +45201,12 @@ possibly containing some business logic.
 
 309
 00:16:15,879 --> 00:16:20,432
-I’ve got rid of all of
+Iï¿½ve got rid of all of
 that horrible timing stuff.
 
 310
 00:16:20,432 --> 00:16:22,612
-So I’m going to follow the plan suggested
+So Iï¿½m going to follow the plan suggested
 
 311
 00:16:22,612 --> 00:16:26,779
@@ -45215,7 +45215,7 @@ going to create a new class.
 
 312
 00:16:29,749 --> 00:16:31,168
-And just for now, I’ll keep it in the same
+And just for now, Iï¿½ll keep it in the same
 
 313
 00:16:31,168 --> 00:16:34,240
@@ -45231,7 +45231,7 @@ book service proxy.
 
 316
 00:16:41,953 --> 00:16:44,339
-Actually I’m going to
+Actually Iï¿½m going to
 give it a better name.
 
 317
@@ -45262,7 +45262,7 @@ that we're going to be working with.
 
 323
 00:17:06,027 --> 00:17:09,194
-So that’s the book service interface.
+So thatï¿½s the book service interface.
 
 324
 00:17:11,537 --> 00:17:13,250
@@ -45270,7 +45270,7 @@ I'll make sure that the checkbox
 
 325
 00:17:13,250 --> 00:17:16,583
-is ticked here, and that’s created me a
+is ticked here, and thatï¿½s created me a
 
 326
 00:17:17,664 --> 00:17:20,252
@@ -45294,7 +45294,7 @@ and nothing but the timing code.
 
 331
 00:17:32,421 --> 00:17:36,156
-So I’m going to start
+So Iï¿½m going to start
 with get entire catalog.
 
 332
@@ -45339,7 +45339,7 @@ same as it was before.
 
 341
 00:18:05,389 --> 00:18:07,399
-I’m going to start the clock then I'm
+Iï¿½m going to start the clock then I'm
 
 342
 00:18:07,399 --> 00:18:09,393
@@ -45390,38 +45390,38 @@ production implementation.
 
 353
 00:18:42,834 --> 00:18:44,929
-My plan is, what I’m going to do is,
+My plan is, what Iï¿½m going to do is,
 
 354
 00:18:44,929 --> 00:18:47,820
-I’m going to hold, as an attribute,
+Iï¿½m going to hold, as an attribute,
 
 355
 00:18:47,820 --> 00:18:50,777
-I’m going to hold an instance
+Iï¿½m going to hold an instance
 
 356
 00:18:50,777 --> 00:18:54,661
-of that book’s service
+of that bookï¿½s service
 production end pole.
 
 357
 00:18:54,661 --> 00:18:58,047
-So I’m going to do something
-like, I’m going to call,
+So Iï¿½m going to do something
+like, Iï¿½m going to call,
 
 358
 00:18:58,047 --> 00:19:00,016
-I’m going to be explicit here.
+Iï¿½m going to be explicit here.
 
 359
 00:19:00,016 --> 00:19:01,485
-I’m going to call the variable
+Iï¿½m going to call the variable
 
 360
 00:19:01,485 --> 00:19:04,910
 the original book service
-and I’m going to call
+and Iï¿½m going to call
 
 361
 00:19:04,910 --> 00:19:08,660
@@ -45430,15 +45430,15 @@ entire catalog method.
 
 362
 00:19:14,671 --> 00:19:17,294
-I haven’t created this variable yet.
+I havenï¿½t created this variable yet.
 
 363
 00:19:17,294 --> 00:19:20,627
-I’m going to hold that as an attribute,
+Iï¿½m going to hold that as an attribute,
 
 364
 00:19:22,021 --> 00:19:26,040
-and its type, again I’m
+and its type, again Iï¿½m
 programming to the interface
 
 365
@@ -45447,7 +45447,7 @@ the type of that object is book service.
 
 366
 00:19:30,065 --> 00:19:34,232
-I’m going to call that
+Iï¿½m going to call that
 the original book service.
 
 367
@@ -45460,7 +45460,7 @@ interface as our proxy, then we know that
 
 369
 00:19:43,851 --> 00:19:46,238
-when we’re in the get
+when weï¿½re in the get
 entire catalog method
 
 370
@@ -45473,7 +45473,7 @@ get entire catalog method because
 
 372
 00:19:52,498 --> 00:19:55,083
-they’ve got the same interface.
+theyï¿½ve got the same interface.
 
 373
 00:19:55,083 --> 00:19:58,339
@@ -45482,7 +45482,7 @@ need to do some copying
 
 374
 00:19:58,339 --> 00:20:01,896
-and pasting here, which won’t be good.
+and pasting here, which wonï¿½t be good.
 
 375
 00:20:01,896 --> 00:20:04,008
@@ -45596,7 +45596,7 @@ I'm going to make this a try block,
 
 401
 00:21:38,051 --> 00:21:40,663
-where I’m going to try to find the book
+where Iï¿½m going to try to find the book
 
 402
 00:21:40,663 --> 00:21:44,163
@@ -45668,7 +45668,7 @@ Let's get this running.
 
 418
 00:22:28,236 --> 00:22:31,195
-We’re going to need to do
+Weï¿½re going to need to do
 some Spring framework here.
 
 419
@@ -45712,7 +45712,7 @@ So what I'm going to do here in the XML.
 
 428
 00:23:01,236 --> 00:23:05,226
-I’m going to add a new
+Iï¿½m going to add a new
 section here because
 
 429
@@ -45729,7 +45729,7 @@ And we need to give it an ID.
 
 432
 00:23:14,574 --> 00:23:18,491
-I’ll call this the timing
+Iï¿½ll call this the timing
 proxy, and the class
 
 433
@@ -45840,7 +45840,7 @@ with a lowercase O.
 
 457
 00:25:08,389 --> 00:25:11,361
-And we’re referring to an existing beam,
+And weï¿½re referring to an existing beam,
 
 458
 00:25:11,361 --> 00:25:15,393
@@ -45852,7 +45852,7 @@ the original book service.
 
 460
 00:25:18,093 --> 00:25:20,821
-Now I’ve said several times on the course
+Now Iï¿½ve said several times on the course
 
 461
 00:25:20,821 --> 00:25:24,303
@@ -45908,7 +45908,7 @@ and get the dependency graph.
 472
 00:25:55,278 --> 00:25:58,038
 Might look little bit
-complicated but what we’re saying
+complicated but what weï¿½re saying
 
 473
 00:25:58,038 --> 00:26:02,205
@@ -45949,7 +45949,7 @@ and the account service to have a proxy.
 
 481
 00:26:25,091 --> 00:26:29,091
-But we’ll worry about
+But weï¿½ll worry about
 that in the next chapter.
 
 482
@@ -45997,7 +45997,7 @@ yeah we get a crash and
 
 491
 00:27:01,825 --> 00:27:04,492
-it’s because no qualifying beam
+itï¿½s because no qualifying beam
 
 492
 00:27:05,760 --> 00:27:08,578
@@ -46101,7 +46101,7 @@ the timing information.
 
 514
 00:28:31,135 --> 00:28:33,500
-Now that’s OK, you might
+Now thatï¿½s OK, you might
 be a little disappointed
 
 515
@@ -46146,7 +46146,7 @@ any book service implementation.
 
 524
 00:29:03,107 --> 00:29:05,082
-So I’ve changed the client code now
+So Iï¿½ve changed the client code now
 
 525
 00:29:05,082 --> 00:29:07,158
@@ -46207,7 +46207,7 @@ service I don't know,
 
 538
 00:29:49,631 --> 00:29:51,348
-we’ll call it original.
+weï¿½ll call it original.
 
 539
 00:29:51,348 --> 00:29:53,996
@@ -46219,7 +46219,7 @@ like to call these beams targets.
 
 541
 00:29:58,206 --> 00:30:00,195
-So I’m going to go with that.
+So Iï¿½m going to go with that.
 
 542
 00:30:00,195 --> 00:30:03,268
@@ -46229,7 +46229,7 @@ because it suggests
 543
 00:30:03,268 --> 00:30:06,942
 that this is the ultimate
-target of the client’s call
+target of the clientï¿½s call
 
 544
 00:30:06,942 --> 00:30:11,109
@@ -46242,7 +46242,7 @@ Now for this timing beam, the object that
 
 546
 00:30:16,057 --> 00:30:19,974
-we’re injecting is now
+weï¿½re injecting is now
 this is this beam here.
 
 547
@@ -46252,7 +46252,7 @@ need to change the ID there.
 
 548
 00:30:25,338 --> 00:30:27,391
-Now what I've done there is I’ve just
+Now what I've done there is Iï¿½ve just
 
 549
 00:30:27,391 --> 00:30:29,984
@@ -46291,7 +46291,7 @@ from using a container.
 
 557
 00:30:56,066 --> 00:30:59,512
-That’s all very well, but I'm
+Thatï¿½s all very well, but I'm
 still feeling some pain here
 
 558
@@ -46598,7 +46598,7 @@ because this proxy we've written,
 
 627
 00:34:40,755 --> 00:34:44,422
-it’s timing is a stand-in
+itï¿½s timing is a stand-in
 for the real class
 
 628
@@ -46616,7 +46616,7 @@ It means a stand-in.
 
 631
 00:34:53,484 --> 00:34:55,529
-A class that’s pretending to be
+A class thatï¿½s pretending to be
 
 632
 00:34:55,529 --> 00:34:58,779
@@ -46705,7 +46705,7 @@ the proxy and the target without
 
 651
 00:35:53,460 --> 00:35:57,082
-changing the client, and that’s elegant.
+changing the client, and thatï¿½s elegant.
 
 652
 00:35:57,082 --> 00:35:59,829
@@ -46739,7 +46739,7 @@ hundreds of proxy methods.
 
 659
 00:36:17,785 --> 00:36:19,985
-However, we’re not going to use a dynamic
+However, weï¿½re not going to use a dynamic
 
 660
 00:36:19,985 --> 00:36:22,729
@@ -46767,7 +46767,7 @@ be for transactions.
 
 665
 00:36:38,902 --> 00:36:42,217
-As we’ll see later, transactions
+As weï¿½ll see later, transactions
 are another requirement
 
 666
@@ -46780,7 +46780,7 @@ So join me in the next chapter,
 
 668
 00:36:48,508 --> 00:36:52,341
-where we’ll see Spring
+where weï¿½ll see Spring
 AOP in action for real.
 
 1
