@@ -26,7 +26,7 @@ public class Util
 		// The class name should have been Util, as it is here!
 		InputStream is = Util.class.getResourceAsStream("/subtitles/boringwords.txt");
 		BufferedReader br = new BufferedReader(new InputStreamReader(is));
-		br.lines().forEach(borings::add);
+		br.lines().forEach(it -> borings.add(it));
 	}
 
 	/**
