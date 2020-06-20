@@ -1,13 +1,13 @@
 package com;
 
-import com.google.common.collect.Iterables;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.apache.spark.SparkConf;
+import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
-import scala.Tuple2;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Main {
@@ -24,22 +24,10 @@ public class Main {
         SparkConf conf = new SparkConf().setAppName("StaringSpark").setMaster("local[*]");
         JavaSparkContext sc = new JavaSparkContext(conf);
 
-        // reduceByKey
-//        sc.parallelize(inputData)
-//                .mapToPair(
-//                        rawValue -> new Tuple2<>(rawValue.split("")[0], 1L)
-//                )
-//                .reduceByKey((value1, value2) -> value1 + value2)
-//                .foreach(tuple -> System.out.println(tuple._1 + " has " + tuple._2 + " instances"));
-
-        // groupBykey
         sc.parallelize(inputData)
-                .mapToPair(
-                        rawValue -> new Tuple2<>(rawValue.split("")[0], 1L)
-                )
-                .groupByKey()
-                .foreach(tuple -> System.out.println(tuple._1 + " has " + Iterables.size(tuple._2) + " instances"));
-
+                .flatMap(value -> Arrays.asList(value.split(" ")).iterator())
+                .filter(word -> word.length() > 1)
+                .foreach(word -> System.out.println(word));
 
         sc.close();
     }
