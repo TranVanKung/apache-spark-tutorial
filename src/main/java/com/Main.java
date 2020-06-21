@@ -43,8 +43,10 @@ public class Main {
 
         JavaPairRDD<Long, String> sorted = switched.sortByKey(false);
 
-        List<Tuple2<Long, String>> results = sorted.take(50);
-        results.forEach(System.out::println);
+        System.out.println("There are " + sorted.getNumPartitions() + " partitions");
+
+//        List<Tuple2<Long, String>> results = sorted.take(50);
+        sorted.foreach(element -> System.out.println(element));
 
         sc.close();
     }
