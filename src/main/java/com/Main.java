@@ -10,6 +10,7 @@ import scala.Tuple2;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -82,6 +83,9 @@ public class Main {
 
         JavaPairRDD<Long, String> step11 = step10.mapToPair(row -> new Tuple2<>(row._2._1, row._2._2));
         step11.sortByKey(false).collect().forEach(value -> System.out.println(value));
+
+        Scanner scanner = new Scanner(System.in);
+        scanner.nextLine();
 
         sc.close();
     }
